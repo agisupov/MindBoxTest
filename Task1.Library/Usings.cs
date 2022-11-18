@@ -1,0 +1,1 @@
+﻿global using Task1.Library.Interfaces;
